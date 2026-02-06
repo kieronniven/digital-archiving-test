@@ -1,4 +1,5 @@
-![ADS_logo](ads_logo.png) ![ADS_logo](hsds_blue_black.png)
+![ADS_logo](ads_logo.png)
+![ADS_logo](hsds_blue_black.png)
 
 # Introduction
 
